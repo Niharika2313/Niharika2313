@@ -22,4 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niharika2313&show_icons=true&locale=en" alt="niharika2313" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Niharika2313&" alt="Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Niharika2313" alt="Streak" /></p>
+
